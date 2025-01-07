@@ -56,11 +56,11 @@ The goal is to predict the number of passengers for a given month and year, usin
 ### Instructions
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/time-series-lstm.git
+   git clone https://github.com/SrujanBhirud/Airline-Passenger-Prediction-Using-LSTM.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd time-series-lstm
+   cd Airline-Passenger-Prediction-Using-LSTM
    ```
 3. Install dependencies:
    ```bash
