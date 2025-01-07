@@ -31,7 +31,7 @@ The goal is to predict the number of passengers for a given month and year, usin
 ├── data
 │   └── airline_passengers.csv  # Dataset file
 ├── models
-│   └── lstm_model.h5           # Trained LSTM model
+│   └── model.pkl           # Trained LSTM model
 ├── notebooks
 │   └── time_series_analysis.ipynb  # Jupyter Notebook for analysis
 └── README.md                   # Project description
