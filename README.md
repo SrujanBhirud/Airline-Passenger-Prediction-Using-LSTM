@@ -34,10 +34,6 @@ The goal is to predict the number of passengers for a given month and year, usin
 │   └── lstm_model.h5           # Trained LSTM model
 ├── notebooks
 │   └── time_series_analysis.ipynb  # Jupyter Notebook for analysis
-├── src
-│   ├── preprocess.py           # Preprocessing and feature engineering
-│   ├── model.py                # LSTM model implementation
-│   └── evaluate.py             # Model evaluation and metrics
 └── README.md                   # Project description
 ```
 
