@@ -88,7 +88,3 @@ The goal is to predict the number of passengers for a given month and year, usin
 ## Acknowledgments
 - Dataset provided by Jason Brownlee ([Machine Learning Mastery](https://machinelearningmastery.com/)).
 
----
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
